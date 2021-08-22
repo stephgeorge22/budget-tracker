@@ -2,7 +2,9 @@ const FILES_TO_CACHE = [
     "./js/index.js",
     "./js/idb.js",
     "./index.html",
-    "./css/styles.css"
+    "./css/styles.css", 
+    "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+    "./manifest.json"
 ];
 
 const APP_PREFIX = 'Budget-';
