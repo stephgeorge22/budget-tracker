@@ -1,7 +1,7 @@
 # Budget Tracker 
 
 ## Description 
-This application is a budget tracker that allows the user to track their withdrawls and deposits with or without data/internet connection. 
+This progressive web application is a budget tracker that allows the user to track their withdrawls and deposits with or without data/internet connection. 
 
 ## Table of Contents
 
@@ -11,11 +11,11 @@ This application is a budget tracker that allows the user to track their withdra
 * [Tests](#tests)
 
 ## Installation
-This application requries npm installer and express 
+This application requries npm installer and express. 
 
 ## Usage 
 See link below for the deployed application in heroku: 
-
+https://sheltered-atoll-28192.herokuapp.com/
 
 ## Contributing
 Please refer to this link:https://www.contributor-covenant.org/
