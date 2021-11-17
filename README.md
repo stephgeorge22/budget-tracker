@@ -28,8 +28,11 @@ This application requries npm installer and express. Please install packages and
 Deployed Heroku Link: https://sheltered-atoll-28192.herokuapp.com/
 
 ## Usage 
-
+Add your transations into this application off or online! 
 ![Screenshot](public/icons/readme.png)
+
+The best part is that it stores all your transaction and provides a graph to allow visulization of your money habits. 
+![image](https://user-images.githubusercontent.com/48072176/142106116-d5c1ee9f-74d7-4671-bb24-2a945b11f559.png)
 
 ## Questions
 Hi, I'm Stephanie. If you like my work and want to connect please feel free to reach out!
