@@ -16,6 +16,13 @@ This progressive web application is a budget tracker that allows the user to tra
 This application requries npm installer and express. Please install packages and run npm. 
 
 ## Technology 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-yellowgreen)
+![PWA](https://img.shields.io/badge/-PWA-brightgreen)
+![AtlasDB](https://img.shields.io/badge/-AtlasDB-blue)
 
 ## Deployment
 Deployed Heroku Link: https://sheltered-atoll-28192.herokuapp.com/
